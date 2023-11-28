@@ -12,21 +12,21 @@ This repository contains the code of the cloud/devops infrastructure for a backt
 
 
 
-[Python]: [﻿https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+[Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 
-[Python-url]: [﻿www.python.org/](https://www.python.org/) 
-
-
-
-[Google-Cloud]: [﻿https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white ](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
-
-[Google-Cloud-url]:[﻿cloud.google.com/?hl=en](https://cloud.google.com/?hl=en) 
+[Python-url]: https://www.python.org/
 
 
 
-[Ansible]: [﻿img.shields.io/badge/-Ansible-red?style=for-the-badge&logo=ansible&logoColor=white](https://img.shields.io/badge/-Ansible-red?style=for-the-badge&logo=ansible&logoColor=white) 
+[Google-Cloud]: https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
 
-[Ansible-url]: [﻿www.ansible.com/](https://www.ansible.com/) 
+[Google-Cloud-url]: https://cloud.google.com/?hl=en
+
+
+
+[Ansible]: https://img.shields.io/badge/-Ansible-red?style=for-the-badge&logo=ansible&logoColor=white
+
+[Ansible-url]: https://www.ansible.com/
 
 
 
