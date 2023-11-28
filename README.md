@@ -7,7 +7,7 @@ This repository contains the code of the cloud/devops infrastructure for a backt
 ## Built With
 - [![Python][Python]][Python-url]
 - [![Google Cloud][Google-Cloud]][Google-Cloud-url]
-- 
+- [![Ansible][Ansible]][Ansible-url]
 
 
 
