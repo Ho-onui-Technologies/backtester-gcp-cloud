@@ -1,0 +1,13 @@
+---
+- name: Build Docker Image & Test Container
+  hosts: localhost
+  gather_facts: no
+  vars:
+    docker_image_name: "my-flask-app-3"
+    port: "8080"
+  roles:
+    - docker_build_image
+  tasks:
+    - name: Run Container in Detached Mode
+      ansible.builtin.command:
+        cmd: "docker run -d -p {{ port }}:{{ port }} {{ docker_image_name }}"

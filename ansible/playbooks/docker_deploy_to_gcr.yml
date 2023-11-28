@@ -1,0 +1,10 @@
+---
+- name: Build Docker Image & Push to GCR
+  hosts: localhost
+  gather_facts: no
+  vars:
+    docker_image_name: "my-flask-app-3"
+    port: "8080"
+  roles:
+    - docker_build_image
+    - gcr_push

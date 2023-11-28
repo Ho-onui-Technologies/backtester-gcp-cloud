@@ -1,0 +1,6 @@
+ansible/
+tests/
+.git
+.gitignore
+.dockerignore
+README.md

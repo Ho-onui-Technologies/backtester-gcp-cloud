@@ -1,0 +1,14 @@
+- name: Change working directory
+  ansible.builtin.command:
+    cmd: pwd
+    chdir: ~/Documents/GitHub/backtester-gcp
+  register: current_directory
+
+- name: Display current directory
+  debug:
+    var: current_directory.stdout_lines
+
+- name: Build Image
+  ansible.builtin.command:
+    cmd: "docker build -t {{ docker_image_name }} ."
+    chdir: "{{ current_directory.stdout_lines[0] }}"

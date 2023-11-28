@@ -1,0 +1,7 @@
+- name: Tag Image with Registry Name
+  ansible.builtin.command:
+    cmd: "docker tag {{ docker_image_name }} gcr.io/{{ gcp_project_id }}/{{ docker_image_name }}"
+
+- name: Push Image to GCR
+  ansible.builtin.command:
+    cmd: "docker push gcr.io/{{ gcp_project_id }}/{{ docker_image_name }}"
