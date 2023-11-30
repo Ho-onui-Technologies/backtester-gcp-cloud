@@ -1,0 +1,13 @@
+---
+- name: Deploy Container Image From GCR to Cloud Run
+  hosts: localhost
+  gather_facts: no
+  vars:
+    cloud_run_instance_name: "flask-app-run-test"
+    gcp_project_id: "alduin-390505"
+    gcr_image: "my-flask-app-3"
+    region: "us-west1"
+  tasks:
+    - name: Deploy GCR Container Image to Cloud Run
+      ansible.builtin.command:
+        cmd: "gcloud run deploy {{ cloud_run_instance_name }} --image gcr.io/{{ gcp_project_id }}/{{ gcr_image }} --platform managed --region {{ region }}"
