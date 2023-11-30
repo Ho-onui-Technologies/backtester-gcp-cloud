@@ -11,33 +11,38 @@ This repository contains the code of the cloud/devops infrastructure for a backt
 - [![Ansible][Ansible]][Ansible-url]
 - [![Docker][Docker]][Docker-url]
 ## Software Architecture
-![Backtesting Architecture](/.eraser/kZSQbkdLoJJgPIDp9WhE___sKBE7gxtknX4C1dnV5iZm5p6Y362___---figure---07EYBXDyDJgRH-mh6SnJm---figure---JidTYrZfrlkJqOg2zqNy8w.png "Backtesting Architecture")
+![Backtesting Architecture](/.eraser/kZSQbkdLoJJgPIDp9WhE___sKBE7gxtknX4C1dnV5iZm5p6Y362___---figure---fgTNiUGcCKrxI003i4YCz---figure---JidTYrZfrlkJqOg2zqNy8w.png "Backtesting Architecture")
 
 
 
 
 
 [Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+
 [Python-url]: https://www.python.org/
 
 
 
 [Google-Cloud]: https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+
 [Google-Cloud-url]: https://cloud.google.com/?hl=en
 
 
 
 [Ansible]: https://img.shields.io/badge/-Ansible-red?style=for-the-badge&logo=ansible&logoColor=white
+
 [Ansible-url]: https://www.ansible.com/
 
 
+
 [Docker]: https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logo
+
 [Docker-url]: https://www.docker.com/
 
-[Flask]: 	https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
-[Flask-url]: https://flask.palletsprojects.com/en/3.0.x/
 
 
+[Flask]: [﻿https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+[Flask-url]: [﻿https://flask.palletsprojects.com/en/3.0.x/](https://flask.palletsprojects.com/en/3.0.x/) 
 
 
 <!--- Eraser file: https://app.eraser.io/workspace/kZSQbkdLoJJgPIDp9WhE --->
