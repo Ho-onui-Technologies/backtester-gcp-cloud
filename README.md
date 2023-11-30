@@ -11,7 +11,7 @@ This repository contains the code of the cloud/devops infrastructure for a backt
 - [![Ansible][Ansible]][Ansible-url]
 - [![Docker][Docker]][Docker-url]
 ## Software Architecture
-![Backtesting Architecture](/.eraser/kZSQbkdLoJJgPIDp9WhE___sKBE7gxtknX4C1dnV5iZm5p6Y362___---figure---aBVRiRKMIiPvLJw99iAzr---figure---JidTYrZfrlkJqOg2zqNy8w.png "Backtesting Architecture")
+![Backtesting Architecture](/.eraser/kZSQbkdLoJJgPIDp9WhE___sKBE7gxtknX4C1dnV5iZm5p6Y362___---figure---nYEd6HjsizzTGvywuuHiZ---figure---JidTYrZfrlkJqOg2zqNy8w.png "Backtesting Architecture")
 
 
 
@@ -41,8 +41,13 @@ This repository contains the code of the cloud/devops infrastructure for a backt
 
 
 
-[Flask]: ﻿https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
-[Flask-url]: ﻿https://flask.palletsprojects.com/en/3.0.x/ 
+[Flask]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
+
+[Flask-url]: https://flask.palletsprojects.com/en/3.0.x/
+
+
+
+Testing.
 
 
 <!--- Eraser file: https://app.eraser.io/workspace/kZSQbkdLoJJgPIDp9WhE --->
